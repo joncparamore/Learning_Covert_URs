@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Virtual envs
+.venv/
+env/
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+
+# Data you regenerate
+results/*.csv
+large_raw_data/
+
+# macOS
+.DS_Store
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
